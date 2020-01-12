@@ -1,0 +1,66 @@
+.noto-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.inlineblock {
+    display: inline-block;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 96px;
+    width: 320px;
+}
+
+header {
+    text-align: center;
+    width: 320px;
+    margin-top: 26px;
+    margin-bottom: 25px;   
+}
+
+.h1-p-1 {
+    margin-top: 16px;
+    text-align: center;
+    line-height: 23px;
+}
+
+.materiales {
+    position: absolute;
+    background-color: #0080FF;
+    color: white;
+    text-align: center;
+    padding: 8px 11px 11px 8px;
+    margin-bottom: 16px;
+    margin-top: 32px;
+    border: 2px solid blue;
+    width: 128px;
+    height: 36px;
+    margin-left: 90px;
+    border-radius: 2px;
+}
+
+.contactar {
+    position: absolute;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 155px;
+    padding-left: 11px;
+    padding-right: 11px;
+    text-align: center;
+    margin-top: 32px;
+    border: 1px solid black;
+    width: 128px;
+    height: 36px;
+    margin-left: 90px;
+    border-radius: 3px;
+}
+
+.phone {
+    width: 320px;
+}
+
+.portada {
+    position: relative;
+}
